@@ -19,6 +19,8 @@ Accessories (water bottles, helmets, tires) have the highest return volumes, but
 A multiple linear regression model confirms a perfect linear relationship between profit and (quantity, price, cost) – R² = 1.0.
 
 Geographic analysis reveals that US regions (Southwest, Northwest) outperform others, while Australia and the UK show untapped potential.
+📊 Dashboard
+https://github.com/Marah-aldaroukh/AdventureWorks-Analysis/blob/main/Dashboard.PNG
 
 🛠️ Tools & Technologies
 Tool	Purpose
