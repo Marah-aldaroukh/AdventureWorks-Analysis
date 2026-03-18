@@ -42,7 +42,7 @@ Note: The full raw data is not included due to file size constraints. You can do
 🚀 How to Run
 1. Clone the repository
 bash
-git clone https://github.com/Marah-aldaroukh/AdventureWorks-End-to-End-Analysis.git
+git clone https://github.com/Marah-aldaroukh/AdventureWorks-Analysis.git
 2. Set up the database
 Install MySQL Server and MySQL Workbench.
 
