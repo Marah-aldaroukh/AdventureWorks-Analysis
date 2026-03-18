@@ -27,7 +27,6 @@ Python	Statistical analysis, regression, decision trees, visualizations (Pandas,
 Power BI	Interactive dashboards, DAX measures, 
 GitHub	Version control and portfolio hosting
 📂 Repository Contents
-text
 AdventureWorks-Analysis/
 │
 ├── data/                       # Sample CSV files (optional, see note below)
